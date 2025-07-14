@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=C92071&reversal=true" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007bff&reversal=true" />
 
 # 🚀 Backend Ecommerce 
 
@@ -128,16 +128,6 @@
 
 >  Contribuinte 👩‍💻
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img width="30%" src="https://github.com/user-attachments/assets/1d66a974-3068-45dd-b180-5f30a49306af"/><br>
-      <strong>Leticia Moura Lopes Soares</strong><br>
-      <br/>
-      <a href="https://github.com/letticiamoura" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/leticia-moura-2157891a6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Linkedin-0b7cb0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    </td>
-  </tr>
 </table>
 
 <br /> 
