@@ -14,7 +14,7 @@
 ## 🎲 Rodando o Back End (Servidor)
 
 1. Clonar o repositório do projeto
-   >``git clone https://github.com/letticiamoura/ecommerce-backend.git``
+   >``git clone https://github.com/evertonvilar/ecommerce-backend.git``
 2. Entrar na pasta
    >``cd ecommerce-front``
 3. Instalar depedências
@@ -104,7 +104,7 @@
     ```
 
 ## Postman 
-[Arquivo Postman](https://drive.google.com/drive/folders/1OHtGiv2Z4uZHyU7TOGDRe7LbOX9thVJ_) ↗
+[Arquivo Postman](https://drive.google.com/file/d/14LBMRbxPM8Es3DkhYScgcqXEzkca8EZe/view?usp=drive_link_) ↗
 
 
 #### Status Code
